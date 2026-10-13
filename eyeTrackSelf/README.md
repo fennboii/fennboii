@@ -13,7 +13,7 @@ THANK YOU BLUE-DOGGO FOR THIS REPO! I COULDN'T HAVE DONE THIS WITHOUT YOU <3
 
 this script captures your eyes from your vive pro eye headset and translates them from images to positions for your osc application needs! HUGE thanks for Blue-Doggo for this repo. it was like 60% of the whole project and to be honest i dont really know how it works.
 
-The whole reason WHY i made 3 different script is because each one captures something different AND if i were to merge them they would only bet capturing from ONE KIND of camera stream which would be inefficnet and would also break some of these. <br />
+The whole reason WHY i made 3 different script is because each one captures something different AND if i were to merge them they would only be capturing from ONE KIND of camera stream which would be ineffient and would also break some of these. <br />
 for example eyeBlink and eyeDilation both use greyscale while eyeMovement uses color of sorts. so technically those could be merged but i prefer to have more control for each script.
 
 <h3>scripts</h3>

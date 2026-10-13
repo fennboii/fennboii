@@ -93,6 +93,8 @@ I don't have a really tight schedule, it's more-so packed with duties but I'm re
 
 as one always does, as passages always end with- we've reached a climax. one of much little elevation. would you say that you've made it? would you look around and notice friends or maybe you were always alone.. the time will come when a friend arrives. an untold myth? or maybe an omen without a trace.
 
+<h6>wonder what it feels like to be attached to someone.</h6>
+
 <!-- V4 <h3>Thanks for reading</h3>
 Thanks for reading this section. i dont do much but cool to be alive i guess. Live ur fullest life stranger, no one is promised tommorow. -->
 <!-- V3 Thanks i guess, this wasnt very cool unlike you but.. thanks. Gooday to you stranger <\3. keep being you. -->
