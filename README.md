@@ -102,7 +102,7 @@ Thanks for reading this section. i dont do much but cool to be alive i guess. Li
 <!-- V1. Thanks for reading this little **about me**, I've got a lot to work on but I'm always learning, always improving. I'd love to work along side you, see what your up to, and help make your dreams become a reality! I hope you have a lovely day, **thank you**. *You can reach me on discord with the tag 'fennboii' I'm overlyfriendy and I don't bite.* -->
 <!-- V0. This was a little about me, ive got quite a passion for computer science and everything within it. Im learning everyday willingly and ive probably touched a little bit of every part of the spectrum of the **computer science** field.
 <h5>Anyway, Thanks for talking the time to read this and i hope you have a good **morning**.</h5> -->
-<br>
+
 
 <!-- V1 <h6>send me a morse message (if u feelin curious): wss://getsocket.ytmopdata.net/morsePort <br>
 (updated url)
