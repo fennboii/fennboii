@@ -44,6 +44,7 @@ when someone calls you by your name, what would you do? look / respond / gesture
 
 <h3>stature unqualified</h3>
 stepped once upon stone walls, <br>
+now frozen, unable to advance past, <br>
 freedom unveiling visions within, <br>
 soothing weight, oh so fragrent, <br>
 <br>
