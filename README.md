@@ -9,10 +9,15 @@ FennBoii/FennBoii is a ✨ special ✨ repository because its `README.md` (this 
 You can click the Preview link to take a look at your changes.
 --->
 
-I know ive been gone a while. I no longer use windows and will start to develop ytmop for linux instead of windows. i know it looks abandoned but know that ill get around to it eventually. right now i have went to private music storage. all music is local, why not do the same? YOU NEVER KNOW WHEN YOUR FAVORITE TRACK COULD BE TAKEN DOWN.
+<!-- I know ive been gone a while. I no longer use windows and will start to develop ytmop for linux instead of windows. i know it looks abandoned but know that ill get around to it eventually. right now i have went to private music storage. all music is local, why not do the same? YOU NEVER KNOW WHEN YOUR FAVORITE TRACK COULD BE TAKEN DOWN. -->
+
+<h3>#ABSOLUTELY_NO_AI</h3>
+
+hey, its me. fenn. ytm-op is currently 'maintained' and ive got a local working copy with the new web address but im not sure its ready to be released. need to test a couple more things. and dont even get me started on the adblock. thats a pain to impliment. though, how have you been? its been a while since we've last seen eachother. oh. right. sorry, didnt mean to overstep. hope your well though, truly. though, ill be around if u need me.. hopefully.
 
 <h3>About me</h3>
-hello there stranger. I go by Fenn. this is my "portfolio" of small works that i really dont want getting away. all things here are "gems" to me. feel free to do whatever you'd like with them though.
+i uh. who am i you ask? well a nobody. really. are you okay being you stranger? its exactly who we all want you to be. its how we all want you to act / improve / interact with; yourself. we love you because you are you. keep doing that. ♡
+<!-- V4 hello there stranger. I go by Fenn. this is my "portfolio" of small works that i really dont want getting away. all things here are "gems" to me. feel free to do whatever you'd like with them though. -->
 <!-- V3 Hey, its Nate / FennBoii. I work on things. they arent very cool. -->
 <!-- V2. Hey, Im Nate, i go by FennBoii online. I do things here and there. Im not that cool but I do things, again, here and there. -->
 <!-- V1. Hey, I'm FennBoii but I usually go by Fennec and my real name is 'Nathan'. I'm all over the place but I don't bite so if you want me to do anything for you just ask and I'll try my best to help you! I do a lot of hobby stuff and projects on the side involving unity and nodejs mostly. I'm open to talk about anything and open to meeting new people and talking infront if them, i'll be prepared and presentable. -->
@@ -24,7 +29,8 @@ hello there stranger. I go by Fenn. this is my "portfolio" of small works that i
 I'm not only working towards my ceritfications, i'm interested in different programming languages as my hobby; These include python, Javascript(both for webdev and nodejs), html, css, and a little more than the basics of C#.. I know a few more but i wont add them because im not a even a beginner in them. I love to learn new things and i also have **learning binary** on my bucket list so ill get to that eventually. -->
 
 <h3>I Exist</h3>
-i do exist, i am here. life feels like nothing. i exist like salt on the table.
+hey. not even sure what to put here anymore. i feel like im failing. falling. breaking. i cant keep any stable energy anymore. at least im here. right?
+<!-- V2 i do exist, i am here. life feels like nothing. i exist like salt on the table. -->
 <!-- V1 I exist in an interesting life that goes up and down, and sometimes it can go inside out for a bit. You doin alright? -->
 
 <!-- <h3>Im busy</h3> -->
@@ -33,7 +39,25 @@ i do exist, i am here. life feels like nothing. i exist like salt on the table.
 <!-- V0. I've got quite a list of ideas i can share if you do reach out about a few different things. You can suggest a topic and ill bring an idea on the table in less than a minute, it'll probably already have been created but if given enough time, ill present to you something inspiring. (top a week)
 Im not afraid to ask for help, ill quickly ask got help if my list of processes are unable to fix the problem. Why? Its because if you don't ask fir help, youll waste company time. -->
 
-<h3>stable, but uncordinated</h3>
+<h3>stated as nobody special</h3>
+when someone calls you by your name, what would you do? look / respond / gesture / ignore? you have a real impact on people. people would love to get to know you but there is always a barrier. well, a few. trust / being a stranger / the way u carry urself / being too introverted. who do you say you are? do you act as which you wish they acted?
+
+<h4>stature unqualified</h4>
+stepped once upon stone walls,
+freedom unveiling visions within
+soothing weight, oh so fragrent
+
+sifting past dark hollows
+eyes adorned with red stone aflame
+great was a call produced throughout
+a blessing inching past a weightless soul
+
+who calls when darkness prevails
+a meadow to oversee though never revealed
+a wallow of hope still sturs, beckoning
+its majestic recovery wishing once more 
+
+<!-- V4 <h3>stable, but uncordinated</h3>
 Once a stagnent soul, <br >
 now one of broken glass, <br >
 shaken from his wits, <br >
@@ -54,7 +78,7 @@ never held, fractured beyond a self <br >
 "elusive creations overwhelm sensitive minds", <br >
 "for there once was, now a void pulses", <br >
 "one of many memories, now rotting and decaying", <br >
-"felt for another one, broken down was his heart"
+"felt for another one, broken down was his heart" -->
 
 
 <!-- V3 I move here to there, I live here, then and when. I do me and help you, I wish i could fix you. Its complicated and yet its so clear. I think its time for a reset or maybe i should shutdown. -->
@@ -63,9 +87,11 @@ never held, fractured beyond a self <br >
 I don't have a really tight schedule, it's more-so packed with duties but I'm ready to pursue my future at full speed. -->
 <!--V0. I do already have a job working in a **deli at a pavillions** but i'm looking to leave and pursue **literally any** position available even if it isn't a paid position just so i can build my knowledge of how these 1s and 0s work. -->
 
+</h3>well, here we are.</h3>
+as one always does, as passages always end with- we've reached a climax. one of much little elevation. would you say that you've made it? would you look around and notice friends or maybe you were always alone.. the time will come when a friend arrives. an untold myth? or maybe an omen without waves.
 
-<h3>Thanks for reading</h3>
-Thanks for reading this section. i dont do much but cool to be alive i guess. Live ur fullest life stranger, no one is promised tommorow.
+<!-- V4 <h3>Thanks for reading</h3>
+Thanks for reading this section. i dont do much but cool to be alive i guess. Live ur fullest life stranger, no one is promised tommorow. -->
 <!-- V3 Thanks i guess, this wasnt very cool unlike you but.. thanks. Gooday to you stranger <\3. keep being you. -->
 <!-- V2. Thanks for glancing.. I dont know. Love or hate me, Ill take it. Gooday to you stranger <\3 -->
 <!-- V1. Thanks for reading this little **about me**, I've got a lot to work on but I'm always learning, always improving. I'd love to work along side you, see what your up to, and help make your dreams become a reality! I hope you have a lovely day, **thank you**. *You can reach me on discord with the tag 'fennboii' I'm overlyfriendy and I don't bite.* -->
@@ -73,15 +99,21 @@ Thanks for reading this section. i dont do much but cool to be alive i guess. Li
 <h5>Anyway, Thanks for talking the time to read this and i hope you have a good **morning**.</h5> -->
 <br />
 
-<h6>send me a morse message (if u feelin curious): wss://getsocket.ytmopdata.net/morsePort <br />
+<!-- V1 <h6>send me a morse message (if u feelin curious): wss://getsocket.ytmopdata.net/morsePort <br />
 (updated url)
-</h6>
+</h6> -->
 
 <hr />
 
 - Included files
 
     [tixatiColorTheme.colors](https://github.com/FennBoii/FennBoii/blob/main/tixatiColorTheme.colors) - custom made theme for the tixati client made by yours truly.
+
+    [vrchatProbe.exe](https://github.com/FennBoii/FennBoii/blob/main/vrchatProbe.exe) - a fake exe (written as a text file) to trick the vrchat sdk in unity on linux to build and test a world.
+
+    [checkNewReleasesRSS.sh](https://github.com/FennBoii/FennBoii/blob/main/checkNewReleasesRSS.sh) - you ever wanted to daily check what youtubers have released new stuff? or even PODCASTS?! look no further! a beautiful tool foru! (i was gonna remove all my feeds but ya knoww what, why not leave em. check those ytbers out! and those podcasts :>)
+
+    [ipAddrCalculator.sh](https://github.com/FennBoii/FennBoii/blob/main/ipAddrCalculator.sh) - you ever needed to calculate the range / host / subnet lengths and all that math for a vlan or custom router integration or other networking stuff? very useful calculator for all of that stuff. (this was a challenge to make and may not be entirely stable)
 
 - Included Folders
     

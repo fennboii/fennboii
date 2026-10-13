@@ -1,0 +1,21 @@
+#!/bin/bash
+
+# here, we capture everything into an array to prevent string splitting (not using $* for here)
+RAW_ARGS=("$@")
+
+# join the array into a single string for path fixing
+FULL_STRING="${RAW_ARGS[*]}"
+
+# fix the path for Proton (Z: drive mapping)
+# We change the encoded %2f (/) to a Windows-style path VRChat can see
+FIXED_STRING=$(echo "$FULL_STRING" | sed 's|file:///%2f|file:///Z:/|g')
+
+# launch VRChat via Steam's 'run' command
+# Instead of a URI (steam://), we pass the arguments directly to the app
+# This avoids the URL-encoding nightmare that's cutting your string off
+steam -applaunch 438100 $FIXED_STRING &
+
+RAW_ARGS="$*"
+
+notify-send "VRChat Bridge" "Launching world with: $RAW_ARGS"
+

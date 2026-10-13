@@ -40,7 +40,7 @@
   - will increase (or negative will decrease) the volume for each of the file formats: mp3, wav, mp4
 
 - move moov
-  - will move the "moov" of an mp4 file to the beginning of the file to load quicker on mobile devices and desktops as well (would reccomend using this for outside mp4 files. the built-in converters in this script will automatically do this. if your still confused, do some research on moov of mp4 files)
+  - will move the "moov" of an mp4 file to the beginning of the file to load quicker on mobile devices and desktops as well (would recommend using this for outside mp4 files. the built-in converters in this script will automatically do this. if your still confused, do some research on moov of mp4 files)
 
 - cut mp4
   - will allow you to cut / snip mp4 files.

@@ -2,19 +2,23 @@
 
 <h4>this script downloads music asyncronously using yt-dlp, ffmpeg, and few more packages!<h3>
 
-<h4>dependencies are: yt-dlp, ffmpeg, ffprobe, jq, sudo -v, xdg-open, aaaaaand a custom script using eyeD3 and jq.
+<h4>dependencies are: yt-dlp, ffmpeg, ffprobe, jq, sudo -v, xdg-open, deno, aaaaaand a custom script using eyeD3 and jq.
 
 put the <u>custom script</u> in '/usr/bin/addURLTag' and make sure you can access it from a new terminal.
 
-if you rename the custom script, MAKE SURE TO RENAME IT also in the M5 script, its close to the top. to get useage help, run the command with zero inputs!
+if you rename the custom script, MAKE SURE TO RENAME IT also in the M5 script, its close to the top. to get usage help, run the command with zero inputs!
 
 <h2>extra</h2>
 
+- this script checks your dependencies when u run it with no options.
+- this script no longer requires sudo. that was a vulnerability.
+- this script now has some fun 'fake' ASCII art! 'clear winner protocol' babyy :>
+
 WARNING
 
-This script may break and NOT work if you DO use a VPN. Change your location to different places until you find a proper location where you can download the album. THIS ONLY AFFECTS YT-DLP AS ITS DOWNLOADING THE ALBUM. KEEP THIS IN MIND.
+This script may not properly find your music from youtube if you DO use a VPN. Change your location to different places until you find a proper location where you can download the album. this will affect downloading of albums.
 
-IF YOU DO re-download the same album, DELETE THE OLD FOLDER. this script moves the new downloded folder into the same folder of where the original is again but inside of it again. so it can become:
+IF YOU DO re-download the same album, DELETE THE OLD FOLDER. this script moves the new downloaded folder into the same folder of where the original is again but inside of it again. so it can become:
 
 ```
 ~/Music/heylog/Single - hair$ tree
