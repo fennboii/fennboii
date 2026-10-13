@@ -91,7 +91,7 @@ I don't have a really tight schedule, it's more-so packed with duties but I'm re
 
 <h3>well, here we are.</h3>
 
-as one always does, as passages always end with- we've reached a climax. one of much little elevation. would you say that you've made it? would you look around and notice friends or maybe you were always alone.. the time will come when a friend arrives. an untold myth? or maybe an omen without waves.
+as one always does, as passages always end with- we've reached a climax. one of much little elevation. would you say that you've made it? would you look around and notice friends or maybe you were always alone.. the time will come when a friend arrives. an untold myth? or maybe an omen without a trace.
 
 <!-- V4 <h3>Thanks for reading</h3>
 Thanks for reading this section. i dont do much but cool to be alive i guess. Live ur fullest life stranger, no one is promised tommorow. -->
