@@ -28,7 +28,7 @@ i uh. who am i you ask? well a nobody. really. are you okay being you stranger? 
 <!-- V0. I currently am working towards a proper job and some kind if computer science future!
 I'm not only working towards my ceritfications, i'm interested in different programming languages as my hobby; These include python, Javascript(both for webdev and nodejs), html, css, and a little more than the basics of C#.. I know a few more but i wont add them because im not a even a beginner in them. I love to learn new things and i also have **learning binary** on my bucket list so ill get to that eventually. -->
 
-<h3>I Exist</h3>
+<h3>i exist here</h3>
 hey. not even sure what to put here anymore. i feel like im failing. falling. breaking. i cant keep any stable energy anymore. at least im here. right?
 <!-- V2 i do exist, i am here. life feels like nothing. i exist like salt on the table. -->
 <!-- V1 I exist in an interesting life that goes up and down, and sometimes it can go inside out for a bit. You doin alright? -->
@@ -42,20 +42,20 @@ Im not afraid to ask for help, ill quickly ask got help if my list of processes 
 <h3>stated as nobody special</h3>
 when someone calls you by your name, what would you do? look / respond / gesture / ignore? you have a real impact on people. people would love to get to know you but there is always a barrier. well, a few. trust / being a stranger / the way u carry urself / being too introverted. who do you say you are? do you act as which you wish they acted?
 
-<h4>stature unqualified</h4>
-stepped once upon stone walls,
-freedom unveiling visions within
-soothing weight, oh so fragrent
-
-sifting past dark hollows
-eyes adorned with red stone aflame
-great was a call produced throughout
-a blessing inching past a weightless soul
-
-who calls when darkness prevails
-a meadow to oversee though never revealed
-a wallow of hope still sturs, beckoning
-its majestic recovery wishing once more 
+<h3>stature unqualified</h3>
+stepped once upon stone walls, <br>
+freedom unveiling visions within, <br>
+soothing weight, oh so fragrent, <br>
+<br>
+sifting past dark hollows, <br>
+eyes adorned with red stone aflame, <br>
+great was a call produced throughout, <br>
+a blessing inching past a weightless soul, <br>
+<br>
+who calls when darkness prevails, <br>
+a meadow to oversee though never revealed, <br>
+a wallow of hope still sturs, beckoning, <br>
+its majestic recovery wishing once more, <br>
 
 <!-- V4 <h3>stable, but uncordinated</h3>
 Once a stagnent soul, <br >
@@ -87,7 +87,9 @@ never held, fractured beyond a self <br >
 I don't have a really tight schedule, it's more-so packed with duties but I'm ready to pursue my future at full speed. -->
 <!--V0. I do already have a job working in a **deli at a pavillions** but i'm looking to leave and pursue **literally any** position available even if it isn't a paid position just so i can build my knowledge of how these 1s and 0s work. -->
 
-</h3>well, here we are.</h3>
+
+<h3>well, here we are.</h3>
+
 as one always does, as passages always end with- we've reached a climax. one of much little elevation. would you say that you've made it? would you look around and notice friends or maybe you were always alone.. the time will come when a friend arrives. an untold myth? or maybe an omen without waves.
 
 <!-- V4 <h3>Thanks for reading</h3>
@@ -97,9 +99,9 @@ Thanks for reading this section. i dont do much but cool to be alive i guess. Li
 <!-- V1. Thanks for reading this little **about me**, I've got a lot to work on but I'm always learning, always improving. I'd love to work along side you, see what your up to, and help make your dreams become a reality! I hope you have a lovely day, **thank you**. *You can reach me on discord with the tag 'fennboii' I'm overlyfriendy and I don't bite.* -->
 <!-- V0. This was a little about me, ive got quite a passion for computer science and everything within it. Im learning everyday willingly and ive probably touched a little bit of every part of the spectrum of the **computer science** field.
 <h5>Anyway, Thanks for talking the time to read this and i hope you have a good **morning**.</h5> -->
-<br />
+<br>
 
-<!-- V1 <h6>send me a morse message (if u feelin curious): wss://getsocket.ytmopdata.net/morsePort <br />
+<!-- V1 <h6>send me a morse message (if u feelin curious): wss://getsocket.ytmopdata.net/morsePort <br>
 (updated url)
 </h6> -->
 
